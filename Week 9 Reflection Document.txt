@@ -1,0 +1,62 @@
+# Week 9 Reflection: Weeks 6-8
+
+## Name
+
+Desiree Kamerer Fuentes
+
+## Project Or App Name
+
+Ever After Café Folder Maker
+
+## Part 1: Development Process
+
+I started by choosing the idea for my Ever After Café Folder Maker and planning how I wanted the application to work. After deciding on the app idea, I created the project in Visual Studio and built the folder structure that the program would generate. I added the required files, including a README, and completed the application documentation as the project developed. In Week 8, I expanded the project by learning how to use JSON to save project information, such as the café name, creation date, and folder count. Throughout the project, I tested the application after making changes to make sure the folders, files, and JSON data were created correctly. I also updated my documentation, organized my GitHub repository, and made improvements based on instructor feedback before submitting my work.
+
+## Part 2: Querying And Research
+
+| Question or Need | Where I Looked | What I Learned | How I Used It |
+
+| How do I add JSON to my Folder Maker project? | Week 8 JSON tutorial, assignment instructions, and AI | I learned how to use the Newtonsoft.Json package, create a project class, and save project information into a JSON file. | I added JSON functionality to my project and created the CafeData.json file. |
+| How should I organize my GitHub repository and README? | Instructor feedback, GitHub, assignment instructions, and AI | I learned how to organize my repository and create a README.md that helps the grader find the required files. | I reorganized my repository and updated my README to explain where everything is located. |
+| How could I make sure my project was working correctly before submitting? | Testing output, previous assignment pages, and AI | I learned that testing after each change helps find problems before submission. | I tested my application after making changes to verify the folders, README file, and JSON file were created correctly. |\
+
+## Part 3: Code Does Not Live Alone
+
+Developing my project involved more than writing code. I communicated through Discord by completing the required course activities and sharing my progress. I kept my documentation updated by writing application documents, README files, change logs, and JSON notes so my work would be easier to understand. I used tools such as Visual Studio, GitHub, and the Newtonsoft.Json package to build and organize my project. I also used AI to help explain programming concepts, troubleshoot problems, and understand assignment requirements when I was stuck. Finally, I used instructor feedback to improve my GitHub repository and documentation so the grader could more easily find the required files. All of these resources worked together to help me build a better project and improve my programming skills.
+
+## Part 4: What I Would Change
+
+If I could redo Weeks 6–8, I would organize my project folders and GitHub repository earlier so I would not need to reorganize them near the end of the assignment. I would update my documentation as I completed each requirement instead of waiting until everything was finished. I would also test my application after every small change so I could find problems sooner instead of troubleshooting multiple changes at once. I would also make sure that i confirmed everything is in GitHub, making sure that my readme.txt states how my professor can find my assignments. Finally, I would ask questions earlier whenever I was unsure about the assignment requirements or where new code belonged, because getting help sooner would have saved time and made the development process smoother.
+
+## Part 5: Week 9 Coding Practice
+
+### Pathway A: Text Starter Code
+
+- Array used:
+The program uses an array called `storyChoices` to store the menu options that are displayed to the user.
+
+- Loop used to display choices:
+The `For...Next` loop goes through the array one item at a time and displays each 
+
+- Loop used to repeat the program:
+The `Do...Loop` keeps showing the menu until the user enters `0` to exit
+
+The `For Each` loop displays every menu choice that the user selected during the program. It goes through the history list one item at a time and prints each choice without needing an index.
+
+- Three choices I changed:
+1. View the Café Menu
+2. Order a Magic Mocha
+3. Create Today's Special
+
+### Pathway B: Video Tutorial
+
+- Project from the video:
+To be completed after following the VB.NET loops tutorial.
+
+- Loop or loops used:
+I used a While loop to display values repeatedly and learned how loops continue until a condition becomes false.
+- My small personal change:
+Instead of displaying numbers, I changed the output to display Table1 through Table10 to match my Ever After Cafe project theme. I also changed the application title to Ever After Cafe.
+
+- Screenshot location:
+Screenshots are located in the Screenshots folder of my Week 9 Git repository.
