@@ -1,0 +1,31 @@
+Week 9 Progress Post
+
+One thing I learned from Weeks 6-8:
+I learned that documenting my development process is just as important as writing the code. Planning, testing, researching, and organizing my work helped me complete each assignment more efficiently.
+
+One source that helped me:
+The Week 9 starter code, the VB.NET loops video tutorial, the course guides, and AI helped me understand how arrays and loops work together.
+
+How code connects to people, machines, or documentation:
+Code depends on clear documentation, communication, and testing so other people can understand, maintain, and run the program correctly.
+
+My loops and arrays practice uses:
+- Array: Stores the menu choices used in the Pathway A starter project.
+- For...Next: Displays each menu option and repeats a set number of times.
+- For Each: Reviews each item stored in the program.
+- Do...Loop: Repeats the menu until the user chooses to exit.
+
+Pathway A text starter project status:
+Completed. I ran the starter code, changed the required menu choices, tested the program, and explained how the array and loops work.
+
+Pathway B video tutorial project status:
+Completed. I followed the video tutorial, built the WPF application, and customized it by changing the title to "Ever After Cafe" and displaying "Table1" through "Table10."
+
+Git repo link:
+(Add your GitHub repository link here.)
+
+Root README location:
+README.md in the root of the repository.
+
+Screenshot proof included in repo:
+Yes. The repository includes screenshots of the reflection, query log, Pathway A, Pathway B, GitHub repository, and Discord post.
