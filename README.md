@@ -52,7 +52,10 @@ The following documentation is included for grading:
 - Week 9 Reflection Document.txt
 - Week 9 Query Log.txt
 - README.md
-
+- README.txt
+- Project A
+- Project B
+  
 The Week 9 Reflection Document includes:
 
 - Development Process
