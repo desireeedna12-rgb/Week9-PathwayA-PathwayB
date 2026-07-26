@@ -51,6 +51,7 @@ The following documentation is included for grading:
 
 - Week 9 Reflection Document.txt
 - Week 9 Query Log.txt
+- Week 9 Discord Prompt.txt
 - README.md
 - README.txt
 - Project A
