@@ -4,7 +4,7 @@ The Week 9 Loops and Arrays project consists of two Visual Basic .NET applicatio
 
 The purpose of this assignment is to demonstrate the use of arrays and loop structures while reflecting on the development process completed during Weeks 6–8. This assignment also reinforces documentation, testing, GitHub organization, and following both written instructions and a video tutorial.
 
-Week 9 builds on the previous assignments by introducing arrays, For...Next loops, For Each loops, Do...Loop structures, and While loops. It also required completing both a starter code project and a video tutorial project, then making a small personal customization.
+Week 9 introduces arrays, For...Next loops, For Each loops, Do...Loop structures, and While loops. It also required completing both a starter code project and a video tutorial project, then making a small personal customization.
 
 ---
 
