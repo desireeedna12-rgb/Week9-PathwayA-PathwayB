@@ -1,11 +1,60 @@
 # Week 9 Query Log
 
-# Week 9 Query Log
-
 Use this to show how you gathered information.
 
-| # | Question, Search, Or Problem | Source Used | Answer Or Result | Next Action |
+| # | Question, Search, or Problem | Source Used | Answer or Result | Next Action |
 |---|------------------------------|-------------|------------------|-------------|
-| 1 | I wanted to understand how to write my Week 9 reflection so it focused on my development process instead of only the finished project. | Week 9 Reflection Template, assignment instructions, and AI. | I learned that the reflection should explain how I planned, researched, tested, documented, and improved my project throughout Weeks 6–8. | I updated my reflection to focus on my development process instead of only describing the completed project. |
-| 2 | I needed to understand what information belonged in the Week 9 Query Log. | Week 9 Query Log Builder, assignment instructions, and AI. | I learned that the query log should record the questions I had, the resources I used, what I learned, and how I applied that information. | I completed the query log using the actual questions and resources I used while completing the assignment. |
-| 3 | I wanted to learn how arrays and loops work before completing the Week 9 coding activities. | Week 9 starter code, VB.NET loops tutorial, course study materials, and AI. | I learned that arrays store related values together and loops allow a program to repeat actions without rewriting the same code. | I will use what I learned to complete Pathway A and Pathway B, then test the program and document the results. |
+
+Query Log Entry 1
+
+Question or problem:
+
+How should I write my Weeks 6–8 reflection so it focused on my development process instead of only describing the finished projects?
+
+Source used:
+
+Week 9 Reflection Template, assignment instructions, and AI.
+
+Answer or result:
+
+I learned that the reflection should explain how I planned, researched, tested, documented, and improved my work throughout the development process instead of only describing the final results.
+
+What I did next:
+
+I revised my reflection to focus on my development process and completed each required reflection section.
+
+Query Log Entry 2
+
+Question or problem:
+
+How do arrays and the different loop structures work in the Week 9 Pathway A starter code?
+
+Source used:
+
+Week 9 starter code, Visual Studio, course study materials, and AI.
+
+Answer or result:
+
+I learned how arrays store related values and how the For...Next, Do...Loop, and For Each loops work together to display menu choices, repeat the program, and review selected items.
+
+What I did next:
+
+I completed Pathway A, changed the required menu choices, tested the application, and explained how each loop worked in my own words.
+
+Query Log Entry 3
+
+Question or problem:
+
+How do I complete the Week 9 Pathway B video tutorial and fix coding errors while following the instructor's example?
+
+Source used:
+
+VB.NET Loops Video Tutorial, Visual Studio, testing output, error messages, and AI.
+
+Answer or result:
+
+I learned how to build the WPF application, troubleshoot coding errors, and customize the project by changing the application title to Ever After Cafe and displaying Table1 through Table10.
+
+What I did next:
+
+I finished the Pathway B project, tested the application, captured the required screenshots, and organized my GitHub repository for submission.
