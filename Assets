@@ -1,0 +1,26 @@
+Week 9 Assets and Libraries
+
+Development Environment
+- Microsoft Visual Studio 2022
+- Visual Basic .NET
+
+Project Types
+- Console Application (.NET) - Pathway A
+- WPF Application (.NET) - Pathway B
+
+Namespaces Used
+- System
+- System.IO
+
+Resources Used
+- Week 9 Assignment Instructions
+- Week 9 Starter Code
+- Week 9 Reflection Template
+- Week 9 Query Log Template
+- VB.NET Loops and Arrays Course Materials
+
+External Libraries
+- None
+
+Notes
+This project did not require any third-party libraries or NuGet packages. Only the built-in .NET libraries and course resources were used.
